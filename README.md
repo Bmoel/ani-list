@@ -1,4 +1,4 @@
-# Anime List
+# ani-list
 ## A command line tool built in Rust to serve as a local anime list for users
 ### Currently supports the following actions:
 * add - Adds and anime to a file in json format
